@@ -63,9 +63,9 @@ export class Contact extends Component {
                                       </div> {/* fechamento contact-info*/}
 
 
-                                      
+                                      <div className="contact-info">
                                         <GoogleMaps />
-                                      
+                                      </div> {/*fechamento contact-info2*/}
 
 
                                 </div> {/*fechamento contact-info-blocks*/}

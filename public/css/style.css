@@ -543,17 +543,35 @@ color: #777;
 }
 #contact .contact-info-blocks{
 	
-	display:flex;
-	width: 100%;
+	display: flex;
+	justify-content: flex-start;
 	
 }
 
 
 #contact .contact-info{
 	
-	width: 50%;
 	height: 400px;
-	display: inline;
+	width: 50%;
+	
+	
+}
+
+@media (max-width: 1000px) {
+
+#contact .contact-info-blocks{
+	
+	display: flex;
+	flex-direction: column;
+}
+#contact .contact-info{
+	
+	.map{
+		width: 50px;
+	}
+
+}
+
 }
 
 #contact .contact-item {

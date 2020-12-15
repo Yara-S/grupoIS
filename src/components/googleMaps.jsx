@@ -4,8 +4,8 @@ import { Map, GoogleApiWrapper , Marker} from 'google-maps-react';
 const KeySecret = process.env.REACT_APP_GOOGLE_API
 
 const mapStyles = {
-  width: '350px',
-  height: '200px'
+  width: '370px',
+  height: '300px'
 };
 
 export class MapContainer extends Component {
