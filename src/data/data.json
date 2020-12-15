@@ -1,0 +1,128 @@
+{
+    "Header": {
+
+        "title": "Instante Saúde Dedetização",
+        "paragraph": "Solução Ambiental"
+
+    },
+    "About": {
+        "paragraph": "A Instante Saúde Dedetização oferece aos nossos clientes o que há de melhor em prestação de serviços em PE, contamos com equipe altamente capacitada e treinada. Com vasta experiência profissional no controle de pragas urbanas, desinsetização, desratização, descupinização, limpeza e desinfecção de reservatórios e caixas d’água. Dentre outros serviços.",
+        "Why": [
+            "Utilizamos equipamentos de última geração e profissionais qualificados, para que nossos clientes disponham do apoio adequado às suas necessidades."
+        ],
+        "Why2": [
+            "Possuímos nossa própria frota, que sempre atende aos pedidos com agilidade e praticidade. Ligue para a nossa central de atendimento e solicite uma inspeção técnica sem compromisso."
+        ]
+    },
+    "Features": [{
+            "icon": "fa fa-bug",
+            "title": " Limpeza de cisternas",
+            "text": " dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-bug",
+            "title": "Limpeza de caixas d’água",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+
+        {
+            "icon": "fa fa-bug",
+            "title": "Limpeza de torres d’água",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-bug",
+            "title": "Limpeza de castelos d’água",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-bug",
+            "title": "Impermeabilização de caixas d’água",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-bug",
+            "title": "Higienização de caixas d’água",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-bug",
+            "title": "Exame bacteriológico em caixas d’água",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-bug",
+            "title": "Avaliação de condições estruturais",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-bug",
+            "title": "Revitalização de piso",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        }
+
+
+    ],
+    "Testimonials": [
+        {
+            "img": "img/testimonials/bombeiros.jpeg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/cert-CPRH.png",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4ª Travessa das Mangueiras, 47, D \n Tabajara, 53404-594  \n Paulista - PE",
+        "phone": "(81) 4109-2759 | 98413-2509 ",
+        "email": "contato@instantesaudededetizacao.com.br",
+        "pagamento": ["cc-visa"],
+        "facebook": "https://www.facebook.com/pg/InstanteSaude/photos/?ref=page_internal",
+        "contatoDev": "https://www.linkedin.com/in/yara-de-souza/"
+       
+    },
+    "Services": [{
+            "icon": "fa fa-comments-o",
+            "name": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "name": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "name": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "name": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
